@@ -1,0 +1,14 @@
+/* 
+  New Icon Script Font
+  ---------------------
+  Place your "NewIconScript.ttf" (or .otf/.woff/.woff2) file in this folder.
+  The @font-face below will load it automatically.
+*/
+
+@font-face {
+  font-family: 'New Icon Script';
+  src: url('./NewIconScript.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
